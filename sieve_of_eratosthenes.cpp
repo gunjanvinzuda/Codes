@@ -1,5 +1,5 @@
 //time complexity O(n*log(logn))
-//fine prime numbers from 1 to n;
+//find prime numbers from 1 to n;
 
 #include<time.h>
 #include<bits/stdc++.h>
