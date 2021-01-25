@@ -1,5 +1,5 @@
 #include<iostream>
-#incldue<vector>
+#include<vector>
 #include<algorithm>
 
 using namespace std;
